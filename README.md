@@ -1,5 +1,5 @@
-# CICD_Project
-This is a CICD project in which a java based app is deployed through a jenkins pipeline on an AWS EC2 instance.
+# JENKINS
+Jenkins set-up on an AWS EC2 Inctance.
 
 ## AWS EC2 Instance
 
